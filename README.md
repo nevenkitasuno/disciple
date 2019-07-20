@@ -8,6 +8,12 @@ Voice command parser
 - [pocketsphinx](https://pypi.org/project/pocketsphinx/) == 0.1.15
 - [PyAudio](https://pypi.org/project/PyAudio/) == 0.2.11
 
-Install language pack as described [here](https://github.com/Uberi/speech_recognition/blob/master/reference/pocketsphinx.rst). You can find formatted [Russian pack](https://github.com/zamiron/ru4sphinx) in this repo as "ru-RU".
+Install language pack as described [here](https://github.com/Uberi/speech_recognition/blob/master/reference/pocketsphinx.rst). You can find [Russian pack](https://github.com/zamiron/ru4sphinx) formatted [here](https://sourceforge.net/projects/disciple/files/ru-RU.rar/download).
 ### DeepSpeech STT
+Under construction
+
+### pymorphy2 language processing
+- [pymorphy2](https://pypi.org/project/pymorphy2/)
+
+### spaCy language processing
 Under construction
